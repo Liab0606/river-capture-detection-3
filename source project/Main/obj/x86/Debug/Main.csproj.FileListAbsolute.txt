@@ -1,0 +1,245 @@
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\bin\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\bin\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.AboutUs.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.AllGroupsIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.ChiRegression.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.DisplayGroupChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.DisplayOneChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Form1.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.GenerateAllGroupsChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.GenerateOneRiverChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.GroupRegionsOfInterest.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.OneGroupIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.PlatformFeatureCaptureIdentification.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.Settings.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main_chiV2._0_reconsitution_.Interface.AttributeTable.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main.Properties.Resources.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main_chiV2.0(reconsitution)\obj\x86\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\bin\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\bin\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Properties.Resources.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.AboutUs.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Form1.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.AllGroupsIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.DisplayGroupChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.DisplayOneChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.GenerateAllGroupsChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.GenerateOneRiverChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.GroupRegionsOfInterest.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.OneGroupIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.PlatformFeatureCaptureIdentification.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.Settings.resources
+C:\Users\mqy\Desktop\geomorphology\RiverCaptureDetection\Main\obj\x86\Debug\Main.Interface.AttributeTable.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\bin\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\bin\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.AboutUs.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.AllGroupsIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.DisplayGroupChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.DisplayOneChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Form1.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.GenerateAllGroupsChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.GenerateOneRiverChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.GroupRegionsOfInterest.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.OneGroupIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.PlatformFeatureCaptureIdentification.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.Settings.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Interface.AttributeTable.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.Properties.Resources.resources
+C:\Users\mqy\Desktop\geomorphology\github\source project\Main\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\bin\Debug\Main.exe
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\bin\Debug\Main.pdb
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.AboutUs.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.AllGroupsIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.DisplayGroupChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.DisplayOneChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Form1.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.GenerateAllGroupsChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.GenerateOneRiverChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.GroupRegionsOfInterest.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.OneGroupIdentificationByChiPlot.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.PlatformFeatureCaptureIdentification.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.Settings.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.AttributeTable.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Properties.Resources.resources
+C:\Users\mqy\Desktop\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.exe
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.pdb
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\bin\Debug\Main.exe
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\bin\Debug\Main.pdb
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.AboutUs.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.AllGroupsIdentificationByChiPlot.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.DisplayGroupChiPlot.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.DisplayOneChiPlot.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Form1.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.GenerateAllGroupsChiPlot.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.GenerateOneRiverChiPlot.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.GroupRegionsOfInterest.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.OneGroupIdentificationByChiPlot.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.PlatformFeatureCaptureIdentification.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.Settings.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Interface.AttributeTable.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.Properties.Resources.resources
+E:\文件备份\study\地貌识别与恢复\geomorphology_河流袭夺\github\source project\Main\obj\x86\Debug\Main.csproj.GenerateResource.Cache
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\Main.exe
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\Main.pdb
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.3DAnalyst.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ADF.Local.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.AnalysisTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Analyst3DTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Animation.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.AxControls.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.AxPublisherControls.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Carto.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.CartographyTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.CartoX.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Controls.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ConversionTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataInteroperabilityTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesFile.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesOleDB.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Display.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.EngineCore.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeoAnalyst.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeocodingTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geodatabase.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geometry.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geoprocessing.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geoprocessor.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeostatisticalAnalystTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GISClient.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GlobeCore.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.LinearReferencingTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Location.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Maplex.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.MultidimensionTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalysis.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalystTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Output.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ParcelFabricTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SampleTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Schematic.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SchematicControls.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SchematicsTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Server.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ServerTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialAnalyst.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialAnalystTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialStatisticsTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.System.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SystemUI.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.TrackingAnalyst.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.TrackingAnalystTools.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Version.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ADF.Connection.Core.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ADF.Core.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.PublisherControls.dll
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.3DAnalyst.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ADF.Connection.Local.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ADF.Local.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.AnalysisTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.AnalysisTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Analyst3DTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Analyst3DTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Animation.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Carto.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.CartographyTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.CartographyTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Controls.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ConversionTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ConversionTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataInteroperabilityTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataInteroperabilityTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataManagementTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataManagementTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesFile.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesGDB.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesNetCDF.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesOleDB.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.DataSourcesRaster.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Display.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeoAnalyst.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeocodingTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeocodingTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geodatabase.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeoDatabaseDistributed.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeoDatabaseExtensions.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geometry.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geoprocessing.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Geoprocessor.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeostatisticalAnalystTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GeostatisticalAnalystTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GISClient.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.GlobeCore.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.LinearReferencingTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.LinearReferencingTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Location.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Maplex.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.MultidimensionTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.MultidimensionTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalysis.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalyst.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalystTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.NetworkAnalystTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Output.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ParcelFabricTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ParcelFabricTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SampleTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SampleTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Schematic.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SchematicsTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SchematicsTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.Server.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ServerTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.ServerTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialAnalyst.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialAnalystTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialAnalystTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialStatisticsTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SpatialStatisticsTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.System.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.SystemUI.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.TrackingAnalyst.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.TrackingAnalystTools.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.TrackingAnalystTools.dll.config
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\bin\Debug\ESRI.ArcGIS.PublisherControls.xml
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.csproj.AssemblyReference.cache
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.AboutUs.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.AllGroupsIdentificationByChiPlot.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.DisplayGroupChiPlot.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.DisplayOneChiPlot.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Form1.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.GenerateAllGroupsChiPlot.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.GenerateOneRiverChiPlot.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.GroupRegionsOfInterest.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.OneGroupIdentificationByChiPlot.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.PlatformFeatureCaptureIdentification.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.Settings.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Interface.AttributeTable.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.Properties.Resources.resources
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.csproj.GenerateResource.cache
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.csproj.CoreCompileInputs.cache
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.csproj.CopyComplete
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.exe
+D:\UCL工作\RiverCapture\代码_数据_修正\source project\Main\obj\x86\Debug\Main.pdb
